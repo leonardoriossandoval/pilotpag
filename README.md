@@ -1,1 +1,3 @@
-# pilotpag
+# vernahikers
+
+pagina web de Verna Hikers
